@@ -14,4 +14,7 @@ GUI Script to recover mysterious OrcaSlicer preset losses:
 https://www.reddit.com/r/OrcaSlicer/comments/1qugcz4/saving_user_preset_from_project_doesnt_save_all/ 
 I had to point the script to my ~/.var/app/com.orcaslicer.OrcaSlicer/ subdirectory. I'm using a Flatpak install and other subdirectory locations may vary.
 
+Ultimaker S-Series profiles ("presets"):
+https://ansonliu.com/2024/04/ultimaker-s3-s5-s7-prusaslicer-profile/
+
 My work here barely scratches the surface of useful useful post-processing. I hope someone else who knows Python can run with it!
